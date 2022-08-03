@@ -1,2 +1,2 @@
 # python_masala
-salom
+Pythonda kichik bir masala yechimi
